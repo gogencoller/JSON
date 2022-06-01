@@ -68,7 +68,13 @@ git commit -m " 2 new files"
 git push
 
  16. На веб интерфейсе создать файл bug_report.json.
+
+Add file > bugreport.json
+
  17. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
+
+Commit new file
+
  18. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON.
  19. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
  20. Синхронизировать внешний и локальный репозиторий JSON
